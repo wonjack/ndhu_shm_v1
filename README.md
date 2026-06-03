@@ -27,11 +27,11 @@
 
 | Entry point | 測站 | 建物 | Sensor 位置 |
 |---|---|---|---|
-| `main_v5_D001.py` | D001 | NDHU 人社院 (4F RC) | 2F |
+| `main_v5_D001.py` | D001 | NDHU 人社院 | 2F |
 | `main_v5_D002.py` | D002 | NDHU 花師教育學院 | — |
 | `main_v5_D003.py` | D003 | NDHU 圖書館 | — |
 | `main_v5_D005.py` | D005 | NDHU 學生活動中心 | — |
-| `main_v5_D006.py` | D006 | NDHU 行政大樓 | 1F + 4F（唯一可做 inter-story SSI 解迴旋） |
+| `main_v5_D006.py` | D006 + W10F | NDHU 環境暨海洋學院 | D006 = 1F, W10F = 4F（唯一可做 inter-story SSI 解迴旋） |
 
 v5 包裝 `src.pipeline_common_v5.run_pipeline`，在 v4 基礎上加入 reviewer_v4 四項程式碼修正：
 
