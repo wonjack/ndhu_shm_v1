@@ -1,0 +1,7 @@
+obspy
+PyWavelets
+scipy
+pandas
+tqdm
+matplotlib
+numpy

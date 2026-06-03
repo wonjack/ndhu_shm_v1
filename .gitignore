@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Output / logs
+output_v*/
+history output/
+v5_runlogs/
+sensitivity_sweep/
+ssi_summary/
+docx_build/
+*.log
+processing_errors*.log
+skipped_events*.log
+run_v*.log
+
+# Generated CSV summaries
+structural_history_log*.csv
+
+# Office / documents
+*.docx
+*.doc
+*.pptx
+*.pdf
+*.xlsx
+~$*
+
+# Raw / large data
+*.sac
+*.tgz
+*.zip
+*.mseed
+CWA/
+DATA/
+palert/
+
+# Images (generated)
+*.png
+*.jpg
+*.jpeg
+*.svg
+!station_distribution.jpg
+!workflow_2_6.png
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
