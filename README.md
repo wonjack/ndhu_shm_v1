@@ -1,4 +1,4 @@
-# project2026 — 結構主頻演化分析流程 (v5)
+# NDHU_SHM — 結構主頻演化分析流程 (v5)
 
 結合解迴旋（water-level deconvolution）與時頻分析（CWT / sliding-window TF），追蹤花蓮地震序列前後、東華大學校園 RC 建物的主頻演化。NCREE 強震站為自由場參考輸入，D-系列 / W10F 測站為結構反應輸出。
 
